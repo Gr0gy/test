@@ -1,4 +1,13 @@
 .hi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     background-color: aqua;
-    color: blue;
+    color: black;
+}
+
+img {
+    width: 50%;
+    height: 50%;
 }
